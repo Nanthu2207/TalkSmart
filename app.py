@@ -8,7 +8,7 @@ import torch
 
 # --- Initialization ---
 # LLM Chatbot API Client
-  # Replace with your actual API key
+# Replace with your actual API key
 HF_API_KEY = os.getenv("HF_API_KEY")
 client = InferenceClient(api_key=os.getenv("HF_API_KEY"))
 
