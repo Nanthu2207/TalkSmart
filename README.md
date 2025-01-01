@@ -2,14 +2,14 @@
 
 TalkSmart is a conversational AI application that uses speech-to-text, a large language model (LLM), and text-to-speech technologies to create a seamless user experience. The application allows users to interact with a chatbot through voice commands, converting their speech into text, processing it using a language model, and responding back with audio.
 
-## Features
+# Features
 
 - **Speech-to-Text**: Convert user speech to text using state-of-the-art speech recognition models.
 - **AI Responses**: Use a large language model (LLM) to generate human-like responses based on the user's input.
 - **Text-to-Speech**: Convert the chatbot's response back to audio, creating a natural, voice-based interaction.
 - **User Interface**: Built with Gradio, allowing users to interact with the application directly through the web.
 
-## Technologies Used
+# Technologies Used
 - **Python**: Core programming language for development.
 - **Hugging Face Transformers**: For language translation.
 - **Gradio**: For building the user interface.
@@ -17,18 +17,18 @@ TalkSmart is a conversational AI application that uses speech-to-text, a large l
 - **Git**: For version control.
 - **Hugging Face Spaces**: For deployment.
 
-## Files in the Repository
+# Files in the Repository
 - `app.py`: Main application script for the Speech-to-Speech bot.
 - `requirements.txt`: List of dependencies required to run the project.
 - `README.md`: Documentation of the project.
 
 
-## Deployment
+# Deployment
 The app is deployed on **Hugging Face Spaces** and can be accessed here:
 [Speech-to-Speech on Hugging Face](https://huggingface.co/spaces/Nanthu22/TalkSmart)
 
 
-## Outcome
+# Outcome
 
 
 ![Screenshot 2025-01-01 185141](https://github.com/user-attachments/assets/b58628dc-d676-42c0-a366-e0d17343275a)
