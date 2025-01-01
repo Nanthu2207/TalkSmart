@@ -28,6 +28,3 @@ The app is deployed on **Hugging Face Spaces** and can be accessed here:
 [Speech-to-Speech on Hugging Face](https://huggingface.co/spaces/Nanthu22/TalkSmart)
 
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
