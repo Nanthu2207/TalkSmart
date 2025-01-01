@@ -1,12 +1,13 @@
-# Speech-to-Speech Translation Bot
+# TalkSmart
 
-This project is a **Speech-to-Speech Translation Bot** that converts spoken language into another spoken language using advanced speech recognition and translation technologies. It is deployed on **Hugging Face Spaces**, providing an interactive platform for seamless communication across languages.
+TalkSmart is a conversational AI application that uses speech-to-text, a large language model (LLM), and text-to-speech technologies to create a seamless user experience. The application allows users to interact with a chatbot through voice commands, converting their speech into text, processing it using a language model, and responding back with audio.
 
 ## Features
-- **Speech Recognition**: Converts spoken words into text.
-- **Translation**: Translates text from one language to another.
-- **Speech Synthesis**: Converts translated text back into speech.
-- **User-Friendly Interface**: Deployed on Hugging Face Spaces for easy access and use.
+
+- **Speech-to-Text**: Convert user speech to text using state-of-the-art speech recognition models.
+- **AI Responses**: Use a large language model (LLM) to generate human-like responses based on the user's input.
+- **Text-to-Speech**: Convert the chatbot's response back to audio, creating a natural, voice-based interaction.
+- **User Interface**: Built with Gradio, allowing users to interact with the application directly through the web.
 
 ## Technologies Used
 - **Python**: Core programming language for development.
@@ -21,38 +22,12 @@ This project is a **Speech-to-Speech Translation Bot** that converts spoken lang
 - `requirements.txt`: List of dependencies required to run the project.
 - `README.md`: Documentation of the project.
 
-## Installation
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nanthu2207/speech-to-speech-bot.git
-   cd speech-to-speech-bot
-   ```
-
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser and go to `http://localhost:7860` to interact with the bot.
 
 ## Deployment
 The app is deployed on **Hugging Face Spaces** and can be accessed here:
-[Speech-to-Speech on Hugging Face](https://huggingface.co/spaces/Nanthu22/Speech-to-speech)
+[Speech-to-Speech on Hugging Face](https://huggingface.co/spaces/Nanthu22/TalkSmart)
 
-## Future Enhancements
-- Add support for more languages.
-- Improve translation accuracy with fine-tuned models.
-- Implement real-time speech processing.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests for new features or bug fixes.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
