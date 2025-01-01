@@ -28,4 +28,7 @@ The app is deployed on **Hugging Face Spaces** and can be accessed here:
 [Speech-to-Speech on Hugging Face](https://huggingface.co/spaces/Nanthu22/TalkSmart)
 
 
+## Outcome
+
+
 ![Screenshot 2025-01-01 185141](https://github.com/user-attachments/assets/b58628dc-d676-42c0-a366-e0d17343275a)
